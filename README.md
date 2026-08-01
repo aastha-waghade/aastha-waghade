@@ -1,6 +1,29 @@
-# 💫 About Me:
-# Hi there, I'm Aastha Waghade 👋<br><br>🎓 I'm a passionate Computer Science Engineering student at **Priyadarshini College of Engineering**.<br><br>💻 I enjoy building real-world software projects and continuously improving my programming skills. I love solving problems, exploring new technologies, and turning ideas into practical applications.<br><br>### 🚀 Currently Learning<br><br>* Data Structures & Algorithms<br>* Full Stack Web Development<br>* Artificial Intelligence <br>* Open Source & Software Development Best Practices<br><br>### 💻 Programming Languages<br><br>* C<br>* C++<br>* Python<br>* Html<br>* CSS<br>* JavaScript<br><br>### 🛠️ Tools & Technologies<br><br>* Git<br>* GitHub<br>* Visual Studio Code<br>* Claude Automation <br><br>### 🌱 What I Love<br><br>* Building innovative projects<br>* Learning new technologies<br>* Writing clean and efficient code<br>* Solving coding challenges<br>* Collaborating with developers<br>* Continuously improving my skills<br><br> Career Goal<br><br>My goal is to become a skilled Software Engineer by building impactful projects, contributing to open-source, and learning modern technologies that solve real-world problems.<br><br> *"Keep learning, keep building, and never stop improving."*<br>
+# 💫 About Me
 
+# Hi there, I'm Aastha Waghade 👋
+🎓 Computer Science Engineering student.
+💻 Passionate about software development, problem-solving, and building real-world projects.
+
+# 🚀 Currently Learning
+* Data Structures & Algorithms
+* Full Stack Web Development
+* Artificial Intelligence
+
+# 💻 Languages
+* C
+* C++
+* Python
+* HTML
+* CSS
+* JavaScript
+
+# 🛠️ Tools
+* Git
+* GitHub
+* Visual Studio Code
+
+# 🎯 Career Goal
+To become a Software Engineer by building impactful projects, contributing to open source, and continuously learning modern technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aastha-waghade) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@AasthaWaghade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthawaghade@gmail.com) 
